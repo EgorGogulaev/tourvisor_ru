@@ -1,0 +1,20 @@
+﻿{
+  "destination": "Турция",
+  "departure_dates": {
+    "start_date": "2023-07-20",
+    "end_date": "2023-08-01"
+  },
+  "duration": {
+    "min_duration": 7,
+    "max_duration": 14
+  },
+  "board_type": "все включено",
+  "hotel_stars": {
+    "min_stars": 3,
+    "max_stars": 5
+  },
+  "price_range": {
+    "min_price": 99000,
+    "max_price": 100000
+  }
+}
